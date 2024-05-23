@@ -7,3 +7,19 @@
 准备的工具以及设备：
 设备：Xiaomi Redmi Router AC2100和两根网线
 固件包：openwrt-23.05.3-ramips-mt7621-xiaomi_redmi-router-ac2100-squashfs-kernel1.bin openwrt-23.05.3-ramips-mt7621-xiaomi_redmi-router-ac2100-squashfs-rootfs0.bin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+（正在编写文档中）
